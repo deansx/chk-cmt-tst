@@ -1,5 +1,5 @@
 this is file a
 it is a very nice file, yes it is
-hurah or hooray
+hurah / hooray
 Yay for file a! line modified
 A new line
