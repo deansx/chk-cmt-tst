@@ -1,0 +1,4 @@
+And finally,
+we have file c.
+Likewise a lovely
+file
