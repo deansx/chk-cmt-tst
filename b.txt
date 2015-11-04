@@ -1,4 +1,4 @@
 File b, here
 This is also a very nice 
 file. In fact b is second only
-to a in terms of nice fileness
+to a in terms of nice fileness fixing a bug
