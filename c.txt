@@ -1,4 +1,4 @@
 And finally,
 we have c.txt.
 Likewise a lovely
-file
+file.
